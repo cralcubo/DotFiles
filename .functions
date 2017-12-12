@@ -14,6 +14,8 @@ function removeFromPath(){
 	export PATH=$(echo $PATH | sed -E -e "s;:$1;;" -e "s;$1:?;;")
 }
 
+setjdk 1.8
+
 # My own functions
 
 function pr(){
@@ -25,6 +27,3 @@ function att(){
   cd /Users/christian/Downloads/tinnitus-attenuator
   java -jar tinnitus-attenuator.jar
 }
-
-
-setjdk 1.8
