@@ -1,0 +1,9 @@
+*
+!.gitignore
+!.bash_profile
+!.bash_prompt
+!.aliases
+!.functions
+!.extra
+!.homes
+!.bashrc

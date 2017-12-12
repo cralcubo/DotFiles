@@ -1,0 +1,4 @@
+# HOMEs
+export SCALA_HOME=/Users/christian/Software/scala-2.11.7
+export MVN_HOME=/Users/christian/Software/apache-maven-3.3.9
+PATH=$PATH:$SCALA_HOME/bin:$MVN_HOME/bin
