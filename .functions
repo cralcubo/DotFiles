@@ -19,7 +19,7 @@ setjdk 1.8
 # My own functions
 
 function pr(){
-  cd /Users/christian/Downloads/pimped-radio
+  cd /Users/christian/Dropbox/pimped-radio
   java -jar -Dlogback.configurationFile=./resources/logback.xml pimped-radio-ui.jar
 }
 
