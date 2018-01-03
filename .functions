@@ -24,6 +24,6 @@ function pr(){
 }
 
 function att(){
-  cd /Users/christian/Downloads/tinnitus-attenuator
+  cd /Users/christian/Dropbox/tinnitus-attenuator
   java -jar tinnitus-attenuator.jar
 }
